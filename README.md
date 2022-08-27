@@ -10,8 +10,6 @@
 - 🕵🏽‍♂️ I’m looking to collaborate with other Cybersecurity Professionals
 - 🛠 2022 Goals: Learn more about security operations & threat detection engineering!
 
-![tryhackme stats](https://raw.githubusercontent.com/<Micahs0Day>/<Micahs0Day>/master/assets/thm_propic.png)
-
 ### Connect with me:
 
 [![website](./img/globe-light.svg)](https://micahs0day.github.io#gh-light-mode-only)
@@ -34,6 +32,8 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="java" width="40" height="40"/> </a> 
 </p>
+
+![tryhackme stats](https://raw.githubusercontent.com/<Micahs0Day>/<Micahs0Day>/master/assets/thm_propic.png)
 
 [website]: https://micahs0day.github.io/
 [youtube]: https://www.youtube.com/c/Micahs0day
