@@ -10,6 +10,8 @@
 - 🕵🏽‍♂️ I’m looking to collaborate with other Cybersecurity Professionals
 - 🛠 2022 Goals: Learn more about security operations & threat detection engineering!
 
+![tryhackme stats](https://raw.githubusercontent.com/<Micahs0Day>/<Micahs0Day>/master/assets/thm_propic.png)
+
 ### Connect with me:
 
 [![website](./img/globe-light.svg)](https://micahs0day.github.io#gh-light-mode-only)
