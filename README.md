@@ -24,19 +24,17 @@
 
 ### Languages / Tools / Technologies:
 
-<p align="left">
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
 <a href="https://www.splunk.com/" target="_blank" rel="noreferrer"> <img src="https://www.splunk.com/content/dam/splunk2/images/2020-splunk-planet.svg" alt="splunk" width="40" height="40"/> </a> 
 <a href="https://www.microfocus.com/en-us/cyberres/secops" target="_blank" rel="noreferrer"> <img src="https://assets-global.website-files.com/5bc662b786ecfc12c8d29e0b/5de2ddd159d27b11ed2353af_partner-arcsight-800x275.png" alt="splunk" width="80" height="40"/> </a> 
-
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 <a href="https://www.microsoft.com/en-us/windows/?r=1" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/1024px-Windows_logo_-_2012.svg.png" alt="windows" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="java" width="40" height="40"/> </a> 
-</p>
 
-# 🎥 Latest YouTube posts:
+
+### 🎥 Latest YouTube posts:
 
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
