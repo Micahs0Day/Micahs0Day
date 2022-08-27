@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=10&color=5CB801&multiline=true&width=435&height=70&lines=%24+whoami;+Micah+AKA+Micahs0Day)](https://git.io/typing-svg)
 
 [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCt7QSmzD_IVaLFs53vyykeA?style=social)][youtube]
-[![Website](https://img.shields.io/website?label=micahs0day.github.io&style=for-the-badge&url=https%3A%2F%2Fmicahs0day.github.io%2F)][website]
+[![Website](https://img.shields.io/website?label=micahs0day.github.io&style=for-the-badge&url=https%3A%2F%2Fmicahs0day.github.io%2F)][website] <br>
 ![tryhackme stats](assets/thm_propic.png)
 
 ## Father, Husband, and Security Analyst!!
