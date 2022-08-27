@@ -33,7 +33,7 @@
 <a href="https://www.microsoft.com/en-us/windows/?r=1" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/1024px-Windows_logo_-_2012.svg.png" alt="windows" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="java" width="40" height="40"/> </a> 
-
+<a href="https://zeek.org/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/45610741?s=280&v=4" alt="zeekbro" width="40" height="40"/> </a> 
 
 ### 🎥 Latest YouTube posts:
 
