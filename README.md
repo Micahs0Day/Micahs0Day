@@ -1,7 +1,7 @@
 ## Hi there, I'm Micah! AKA [Micahs0Day][youtube] 👋 
 
 [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCt7QSmzD_IVaLFs53vyykeA?style=social)][youtube]
-[![Website](https://img.shields.io/website?label=micahs0day.github.io&style=for-the-badge&url=https%3A%2F%2Fmicahs0day.github.io%2F)][(website]
+![Website](https://img.shields.io/website?label=micahs0day.github.io&style=for-the-badge&url=https%3A%2F%2Fmicahs0day.github.io%2F)][(website]
 
 ## Father, Husband, and Security Analyst!!
 
@@ -21,7 +21,7 @@
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/micah-funderburk#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/micah-funderburk#gh-dark-mode-only)
 
-### Languages and Tools:
+### Languages / Tools / Technologies:
 
 <p align="left">
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
