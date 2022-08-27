@@ -1,13 +1,13 @@
-## Hi there, I'm Micah! AKA [Micahs0Day][youtube] 👋 
+## Hi there, I'm Micah! AKA [Micahs0Day][youtube] 👋🏽
 
 [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCt7QSmzD_IVaLFs53vyykeA?style=social)][youtube]
 [![Website](https://img.shields.io/website?label=micahs0day.github.io&style=for-the-badge&url=https%3A%2F%2Fmicahs0day.github.io%2F)][website]
 
 ## Father, Husband, and Security Analyst!!
 
-- 🔭 Check out my Blog Post: [Blue Team Resources (SOC Analyst)][post]!
+- ✨ Check out my Blog Post: [Blue Team Resources (SOC Analyst)][post]!
 - 🐍 I’m currently learning Python/KQL/SPL
-- 👋 I’m looking to collaborate with other Cybersecurity Professionals
+- 🕵🏽‍♂️ I’m looking to collaborate with other Cybersecurity Professionals
 - 🛠 2022 Goals: Learn more about security operations & threat detection engineering!
 
 ### Connect with me:
