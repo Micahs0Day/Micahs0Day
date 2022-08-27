@@ -35,7 +35,7 @@
 </p>
 
 ----
-![tryhackme stats](https://raw.githubusercontent.com/<Micahs0Day>/<Micahs0Day>/master/assets/thm_propic.png)
+![tryhackme stats](assets/thm_propic.png)
 
 [website]: https://micahs0day.github.io/
 [youtube]: https://www.youtube.com/c/Micahs0day
