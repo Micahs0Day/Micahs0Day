@@ -1,4 +1,4 @@
-## Hi there, I'm Micah! AKA [Micahs0Day][youtube] 👋🏽
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%24+whoami+;Micah+AKA+Micahs0Day)](https://git.io/typing-svg)
 
 [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCt7QSmzD_IVaLFs53vyykeA?style=social)][youtube]
 [![Website](https://img.shields.io/website?label=micahs0day.github.io&style=for-the-badge&url=https%3A%2F%2Fmicahs0day.github.io%2F)][website]
@@ -9,6 +9,8 @@
 - 🐍 I’m currently learning Python/KQL/SPL
 - 🕵🏽‍♂️ I’m looking to collaborate with other Cybersecurity Professionals
 - 🛠 2022 Goals: Learn more about security operations & threat detection engineering!
+
+![tryhackme stats](https://raw.githubusercontent.com/<Micahs0Day>/<Micahs0Day>/master/assets/thm_propic.png)
 
 ### Connect with me:
 
@@ -32,8 +34,6 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="java" width="40" height="40"/> </a> 
 </p>
-
-![tryhackme stats](https://raw.githubusercontent.com/<Micahs0Day>/<Micahs0Day>/master/assets/thm_propic.png)
 
 [website]: https://micahs0day.github.io/
 [youtube]: https://www.youtube.com/c/Micahs0day
