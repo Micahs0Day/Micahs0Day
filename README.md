@@ -38,11 +38,11 @@
 ### 🎥 Latest YouTube posts:
 
 <!-- YOUTUBE:START -->
+- [LetsDefend &lpar;SOC Analyst&rpar; - Event ID #113: Suspicious Certutil.exe Usage](https://www.youtube.com/watch?v=So-ORKGromw)
 - [TryHackMe - Splunk BOTSv1 &lpar;APT Scenario&rpar; Walkthrough -](https://www.youtube.com/watch?v=l9Ozh2WnCiE)
 - [LetsDefend &lpar;SOC Analyst&rpar; - Event ID #119: Possible IDOR Attack Detected](https://www.youtube.com/watch?v=EEN3AnvvnC4)
 - [Cybersecurity &lpar;SOC Analyst&rpar; | Top 3 Underrated Skills](https://www.youtube.com/watch?v=jJZw44K5LxY)
 - [TryHackMe! - H4cked Walkthrough -  [EASY]](https://www.youtube.com/watch?v=afCwMFpZS1M)
-- [LetsDefend &lpar;SOC Analyst&rpar; - Event ID #74: Data Leak via Mailbox Forwarding Detected](https://www.youtube.com/watch?v=SVDDJWYX0sE)
 <!-- YOUTUBE:END -->
 
 ----
