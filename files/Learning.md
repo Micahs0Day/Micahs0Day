@@ -2,7 +2,6 @@
 ## Detection Engineering
 
 ### Languages:
-
  - YARA
  - KQL
  - SQL
@@ -11,8 +10,8 @@
  - RegEx
  - Python (Working with APIs)
 
-### Tools:
 
+### Tools:
  - GIT
  - Sigma
  - OSquery/Fleet
@@ -22,8 +21,8 @@
  - Splunk Forwarders
  - Microsoft ATA
 
-### Methodologies:
 
+### Methodologies:
  - DevOps Practices
  - Threat Modelling
  - Threat Intelligence w/ MITRE
@@ -36,3 +35,4 @@
  - Sysmon IDs
  - WEF/WEC
  - Windows Event Subscriptions
+ - Linux logging
