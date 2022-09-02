@@ -7,7 +7,7 @@
 ## Father, Husband, and Cybersecurity Professional!!
 
 - ✨ Check out my Blog Post: [Blue Team Resources (SOC Analyst)][post]!
-- 🐍 I’m currently learning Python/KQL/SPL
+- 👨🏽‍🎓 Things I’m currently learning here.
 - 🕵🏽‍♂️ I’m looking to collaborate with other Cybersecurity Professionals
 - 🛠 2022 Goals: Learn more about security operations & threat detection engineering!
 
@@ -51,3 +51,4 @@
 [youtube]: https://www.youtube.com/c/Micahs0day
 [linkedin]: https://www.linkedin.com/in/micah-funderburk/
 [post]: https://micahs0day.github.io/Blue_Team_Stuff/
+[learning]: files/Learning.md
