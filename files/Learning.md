@@ -2,7 +2,6 @@
 ## Detection Engineering
 
 ### Languages:
- - YARA
  - KQL
  - SQL
  - SPL
@@ -16,6 +15,7 @@
  - Sigma
  - OSquery/Fleet
  - Velociraptor
+ - YARA
  - Suricata
  - Zeek
  - Splunk Forwarders
