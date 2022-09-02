@@ -35,4 +35,4 @@
  - Sysmon IDs
  - WEF/WEC
  - Windows Event Subscriptions
- - Linux logging
+ - Linux
