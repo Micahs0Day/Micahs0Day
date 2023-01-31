@@ -39,11 +39,11 @@
 ### 🎥 Latest YouTube posts:
 
 <!-- YOUTUBE:START -->
+- [Work From Home Desk Overhaul  &lpar;Cybersecurity Edition&rpar;](https://www.youtube.com/watch?v=yEjDFTQpgs0)
 - [TryHackMe - Sigma](https://www.youtube.com/watch?v=CKDEqcssTzY)
 - [TryHackMe &lpar;Hackerween&rpar; PrintNightmare, again!](https://www.youtube.com/watch?v=CQiOI7V5XC0)
 - [TryHackMe - PrintNightmare Walkthrough](https://www.youtube.com/watch?v=3_vsbgFtn14)
 - [LetsDefend &lpar;SOC Analyst&rpar; - Event ID #113: Suspicious Certutil.exe Usage](https://www.youtube.com/watch?v=So-ORKGromw)
-- [TryHackMe - Splunk BOTSv1 &lpar;APT Scenario&rpar; Walkthrough -](https://www.youtube.com/watch?v=l9Ozh2WnCiE)
 <!-- YOUTUBE:END -->
 
 ----
