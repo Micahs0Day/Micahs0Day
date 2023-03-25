@@ -39,11 +39,11 @@
 ### 🎥 Latest YouTube posts:
 
 <!-- YOUTUBE:START -->
+- [TryHackMe - Outlook NTLM Leak &lpar;CVE-2023-23397&rpar;](https://www.youtube.com/watch?v=VXH1drHibaI)
 - [Work From Home Desk Overhaul  &lpar;Cybersecurity Edition&rpar;](https://www.youtube.com/watch?v=yEjDFTQpgs0)
 - [TryHackMe - Sigma](https://www.youtube.com/watch?v=CKDEqcssTzY)
 - [TryHackMe &lpar;Hackerween&rpar; PrintNightmare, again!](https://www.youtube.com/watch?v=CQiOI7V5XC0)
 - [TryHackMe - PrintNightmare Walkthrough](https://www.youtube.com/watch?v=3_vsbgFtn14)
-- [LetsDefend &lpar;SOC Analyst&rpar; - Event ID #113: Suspicious Certutil.exe Usage](https://www.youtube.com/watch?v=So-ORKGromw)
 <!-- YOUTUBE:END -->
 
 ----
