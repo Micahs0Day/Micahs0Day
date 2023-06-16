@@ -3,7 +3,6 @@
 
 ### Languages:
  - KQL
- - SQL
  - SPL
  - YAML
  - RegEx
@@ -25,7 +24,6 @@
 ### Methodologies:
  - DevOps Practices
  - Threat Modelling
- - Threat Intelligence w/ MITRE
  - Detection Dev Lifecycle
  
  
@@ -33,6 +31,5 @@
  - Azure
  - Windows Event IDs
  - Sysmon IDs
- - WEF/WEC
  - Windows Event Subscriptions
  - Linux
