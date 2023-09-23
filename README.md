@@ -43,7 +43,7 @@
 - [TryHackMe - Investigating Windows](https://www.youtube.com/watch?v=tXiq_O9oQ40)
 - [TryHackMe - The Greenholt Phish](https://www.youtube.com/watch?v=FWJ9g71dPbg)
 - [TryHackMe - Outlook NTLM Leak &lpar;CVE-2023-23397&rpar;](https://www.youtube.com/watch?v=VXH1drHibaI)
-- [Work From Home Desk Overhaul  &lpar;Cybersecurity Edition&rpar;](https://www.youtube.com/watch?v=yEjDFTQpgs0)
+- [TryHackMe - Sigma](https://www.youtube.com/watch?v=CKDEqcssTzY)
 <!-- YOUTUBE:END -->
 
 ----
