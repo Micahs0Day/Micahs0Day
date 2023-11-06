@@ -39,11 +39,11 @@
 ### 🎥 Latest YouTube posts:
 
 <!-- YOUTUBE:START -->
+- [Going for Gold | BTL1 | I Passed!](https://www.youtube.com/watch?v=HnYIk0N7d24)
 - [TryHackMe - Benign &lpar;Splunk Investigation&rpar;](https://www.youtube.com/watch?v=elgflkcMz_s)
 - [TryHackMe - Investigating Windows](https://www.youtube.com/watch?v=tXiq_O9oQ40)
 - [TryHackMe - The Greenholt Phish](https://www.youtube.com/watch?v=FWJ9g71dPbg)
 - [TryHackMe - Outlook NTLM Leak &lpar;CVE-2023-23397&rpar;](https://www.youtube.com/watch?v=VXH1drHibaI)
-- [TryHackMe - Sigma](https://www.youtube.com/watch?v=CKDEqcssTzY)
 <!-- YOUTUBE:END -->
 
 ----
