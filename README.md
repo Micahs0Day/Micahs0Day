@@ -10,7 +10,7 @@
 - ✨ Check out my Blog Post: [Blue Team Resources (SOC Analyst)][post]!
 - 👨🏽‍🎓 Things I’m currently learning [here][learning].
 - 🕵🏽‍♂️ I’m looking to collaborate with other Cybersecurity Professionals
-- 🛠 2022 Goals: Learn more about security operations & threat detection engineering!
+- 🛠 2024 Goals: SC-200 | AWS CSA | CARTP | PNPT
 
 
 ### Connect with me:
