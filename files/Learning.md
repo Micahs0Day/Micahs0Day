@@ -2,34 +2,18 @@
 ## Detection Engineering
 
 ### Languages:
- - KQL
- - SPL
- - YAML
- - RegEx
  - Python (Working with APIs)
+ - Javascript
+ - Typescript
 
 
 ### Tools:
- - GIT
- - Sigma
- - OSquery/Fleet
- - Velociraptor
- - YARA
- - Suricata
- - Zeek
- - Splunk Forwarders
- - Microsoft ATA
+ - AWD CDK
+ - Docker
+ - MSTICPy
 
 
 ### Methodologies:
  - DevOps Practices
- - Threat Modelling
- - Detection Dev Lifecycle
+ - Red Teaming
  
- 
-### Logging
- - Azure
- - Windows Event IDs
- - Sysmon IDs
- - Windows Event Subscriptions
- - Linux
