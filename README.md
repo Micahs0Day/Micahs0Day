@@ -3,6 +3,7 @@
 [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCt7QSmzD_IVaLFs53vyykeA?style=social)][youtube] <br>
 [![Website](https://img.shields.io/website?label=micahs0day.github.io&style=for-the-badge&url=https%3A%2F%2Fmicahs0day.github.io%2F)][website] <br>
 
+<img src="https://tryhackme-badges.s3.amazonaws.com/M0dChild.png" alt="TryHackMe">
 
 ## Father, Husband, and Cybersecurity Professional!!
 
