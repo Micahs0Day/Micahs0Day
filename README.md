@@ -35,6 +35,9 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="java" width="40" height="40"/> </a> 
 <a href="https://zeek.org/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/45610741?s=280&v=4" alt="zeekbro" width="40" height="40"/> </a> 
+<a href="https://www.crowdstrike.com/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/2446477?s=200&v=4" alt="crowdstrike" width="40" height="40"/> </a> 
+<a href="https://learn.microsoft.com/en-us/azure/sentinel/overview" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/originals/aa/2d/20/aa2d20591812177bb3a809f2e041d79c.png" alt="sentinel" width="40" height="40"/> </a> 
+<a href="https://cribl.io/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/43581942?s=200&v=4" alt="cribl" width="40" height="40"/> </a> 
 
 ### 🎥 Latest YouTube posts:
 
