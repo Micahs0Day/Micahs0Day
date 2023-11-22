@@ -5,10 +5,11 @@
  - Python (Working with APIs)
  - Javascript
  - Typescript
+ - Advanced KQL
 
 
 ### Tools:
- - AWD CDK
+ - AWS CDK
  - Docker
  - MSTICPy
 
