@@ -13,7 +13,8 @@
 * 🛠 2024 Goals:
   * [SC-200: Microsoft Security Operations Analyst](https://learn.microsoft.com/en-us/credentials/certifications/exams/sc-200/)
   * [Certified Azure Red Team Professional](https://www.alteredsecurity.com/azureadlab)
-  * [AWS Certified Solutions Architect - Associate](https://aws.amazon.com/certification/certified-solutions-architect-associate/?ch=sec&sec=rmg&d=1) 
+  * [AWS Certified Solutions Architect - Associate](https://aws.amazon.com/certification/certified-solutions-architect-associate/?ch=sec&sec=rmg&d=1)
+  * [Cloud Resume Challenge](https://cloudresumechallenge.dev/docs/the-challenge/aws/)
 
 ### Connect with me:
 
