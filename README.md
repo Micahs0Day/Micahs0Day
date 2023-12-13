@@ -45,7 +45,7 @@
 ### 🎥 Latest YouTube posts:
 
 <!-- YOUTUBE:START -->
-- [Deploying a Cloud-Based SSH Server with AWS EC2 from scratch!](https://www.youtube.com/watch?v=6Xg3PVZBumM)
+- [Deploy a Cloud-Based SSH Server with AWS EC2 from scratch!](https://www.youtube.com/watch?v=6Xg3PVZBumM)
 - [Certified CyberDefender &lpar;CCD&rpar; | First Impressions &amp; Course Overview](https://www.youtube.com/watch?v=r3WnhbzYEYQ)
 - [PwnedLabs | Intro to AWS IAM Enumeration](https://www.youtube.com/watch?v=RvrZ52ngh5Q)
 - [Going for Gold | BTL1 | I Passed!](https://www.youtube.com/watch?v=HnYIk0N7d24)
