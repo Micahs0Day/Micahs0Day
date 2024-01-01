@@ -45,11 +45,11 @@
 ### 🎥 Latest YouTube posts:
 
 <!-- YOUTUBE:START -->
+- [Docker x VSCode | Getting Started with Dev Containers](https://www.youtube.com/watch?v=4hki_17bkII)
 - [Get started in AWS | Deploying Linux Based Amazon EC2 Instance](https://www.youtube.com/watch?v=6Xg3PVZBumM)
 - [Certified CyberDefender &lpar;CCD&rpar; | First Impressions &amp; Course Overview](https://www.youtube.com/watch?v=r3WnhbzYEYQ)
 - [PwnedLabs | Intro to AWS IAM Enumeration](https://www.youtube.com/watch?v=RvrZ52ngh5Q)
 - [Going for Gold | BTL1 | I Passed!](https://www.youtube.com/watch?v=HnYIk0N7d24)
-- [TryHackMe - Benign &lpar;Splunk Investigation&rpar;](https://www.youtube.com/watch?v=elgflkcMz_s)
 <!-- YOUTUBE:END -->
 
 ----
