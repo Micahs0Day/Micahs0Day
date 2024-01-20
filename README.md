@@ -45,11 +45,11 @@
 ### 🎥 Latest YouTube posts:
 
 <!-- YOUTUBE:START -->
+- [Loot Exchange, Teams and SharePoint with GraphRunner | PwnedLabs](https://www.youtube.com/watch?v=B1Ucol64Wsc)
 - [Microsoft Graph Overview: Python App Registration &amp; Graph Activity Logs](https://www.youtube.com/watch?v=ajZruciSnkA)
 - [Docker x VSCode | Getting Started with Dev Containers](https://www.youtube.com/watch?v=4hki_17bkII)
 - [Deploying Linux Based Amazon EC2 Instance in AWS](https://www.youtube.com/watch?v=6Xg3PVZBumM)
 - [Certified CyberDefender &lpar;CCD&rpar; | First Impressions &amp; Course Overview](https://www.youtube.com/watch?v=r3WnhbzYEYQ)
-- [PwnedLabs | Intro to AWS IAM Enumeration](https://www.youtube.com/watch?v=RvrZ52ngh5Q)
 <!-- YOUTUBE:END -->
 
 ----
