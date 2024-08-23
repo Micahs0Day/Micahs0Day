@@ -45,11 +45,11 @@
 ### 🎥 Latest YouTube posts:
 
 <!-- YOUTUBE:START -->
+- [PwnedLabs | Exploit Kubernetes Overly Permissive RBAC](https://www.youtube.com/watch?v=x7L8AMMrmBw)
 - [Cloud Resume Challenge Static Website S3](https://www.youtube.com/watch?v=FT6hHDN5wc8)
 - [Beginner Cloud Project | Cloud Resume Challenge Overview](https://www.youtube.com/watch?v=4Q0wjk72Hjk)
 - [PwnedLabs | LOOT Exchange, Teams, and SharePoint Data with GraphRunner](https://www.youtube.com/watch?v=B1Ucol64Wsc)
 - [Microsoft Graph API: App Registration &amp; Graph Activity Logs](https://www.youtube.com/watch?v=ajZruciSnkA)
-- [Docker x VSCode | Getting Started with Dev Containers](https://www.youtube.com/watch?v=4hki_17bkII)
 <!-- YOUTUBE:END -->
 
 ----
