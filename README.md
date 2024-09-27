@@ -11,8 +11,7 @@
 * 👨🏽‍🎓 Things I’m currently learning [here][learning].
 * 🕵🏽‍♂️ I’m looking to collaborate with other Cybersecurity Professionals
 * 🛠 2024 Goals:
-  * [SC-200: Microsoft Security Operations Analyst](https://learn.microsoft.com/en-us/credentials/certifications/exams/sc-200/)
-  * [Certified Azure Red Team Professional](https://www.alteredsecurity.com/azureadlab)
+  * [SC-300: Microsoft Certified: Identity and Access Administrator Associate](https://learn.microsoft.com/en-us/credentials/certifications/identity-and-access-administrator/?practice-assessment-type=certification)
   * [AWS Certified Solutions Architect - Associate](https://aws.amazon.com/certification/certified-solutions-architect-associate/?ch=sec&sec=rmg&d=1)
   * [Cloud Resume Challenge](https://cloudresumechallenge.dev/docs/the-challenge/aws/)
 
