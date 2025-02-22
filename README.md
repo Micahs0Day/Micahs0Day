@@ -7,7 +7,6 @@
 
 ## Father, Husband, and Cybersecurity Professional!!
 
-* 🕵🏽‍♂️ I’m looking to collaborate with other Cybersecurity Professionals
 * 🛠 2025 Goals:
   * [AWS Certified Solutions Architect - Associate](https://aws.amazon.com/certification/certified-solutions-architect-associate/?ch=sec&sec=rmg&d=1) ✅
   * [Cloud Resume Challenge](https://cloudresumechallenge.dev/docs/the-challenge/aws/)
@@ -17,9 +16,6 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://micahs0day.github.io#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://micahs0day.github.io#gh-dark-mode-only)
-&nbsp;&nbsp;
 [![website](./img/youtube-light.svg)](https://www.youtube.com/c/Micahs0day#gh-light-mode-only)
 [![website](./img/youtube-dark.svg)](https://www.youtube.com/c/Micahs0day#gh-dark-mode-only)
 &nbsp;&nbsp;
