@@ -7,13 +7,13 @@
 
 ## Father, Husband, and Cybersecurity Professional!!
 
-* ✨ Check out my Blog Post: [Blue Team Resources (SOC Analyst)][post]!
-* 👨🏽‍🎓 Things I’m currently learning [here][learning].
 * 🕵🏽‍♂️ I’m looking to collaborate with other Cybersecurity Professionals
-* 🛠 2024 Goals:
-  * [SC-300: Microsoft Certified: Identity and Access Administrator Associate](https://learn.microsoft.com/en-us/credentials/certifications/identity-and-access-administrator/?practice-assessment-type=certification)
-  * [AWS Certified Solutions Architect - Associate](https://aws.amazon.com/certification/certified-solutions-architect-associate/?ch=sec&sec=rmg&d=1)
+* 🛠 2025 Goals:
+  * [AWS Certified Solutions Architect - Associate](https://aws.amazon.com/certification/certified-solutions-architect-associate/?ch=sec&sec=rmg&d=1 ✅
   * [Cloud Resume Challenge](https://cloudresumechallenge.dev/docs/the-challenge/aws/)
+  * [Terraform Associate](https://developer.hashicorp.com/terraform/tutorials/certification-003/associate-study-003)
+  * [Amazon Cloud Red Team Professional (ACRTP)](https://bootcamps.pwnedlabs.io/acrtp-bootcamp)
+  * [AWS Certified Security - Specialty](https://aws.amazon.com/certification/certified-security-specialty/)
 
 ### Connect with me:
 
