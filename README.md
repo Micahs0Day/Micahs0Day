@@ -5,7 +5,7 @@
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/M0dChild.png" alt="TryHackMe">
 
-## Father, Husband, and Cybersecurity Professional!!
+## Father, Husband, Follower of Christ, Cybersecurity Professional!!
 
 ### 🛠 2025 Goals:
  * [AWS Certified Solutions Architect - Associate](https://aws.amazon.com/certification/certified-solutions-architect-associate/?ch=sec&sec=rmg&d=1) ✅
