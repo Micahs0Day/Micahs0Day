@@ -9,7 +9,7 @@
 
 * 🕵🏽‍♂️ I’m looking to collaborate with other Cybersecurity Professionals
 * 🛠 2025 Goals:
-  * [AWS Certified Solutions Architect - Associate](https://aws.amazon.com/certification/certified-solutions-architect-associate/?ch=sec&sec=rmg&d=1 ✅
+  * [AWS Certified Solutions Architect - Associate](https://aws.amazon.com/certification/certified-solutions-architect-associate/?ch=sec&sec=rmg&d=1) ✅
   * [Cloud Resume Challenge](https://cloudresumechallenge.dev/docs/the-challenge/aws/)
   * [Terraform Associate](https://developer.hashicorp.com/terraform/tutorials/certification-003/associate-study-003)
   * [Amazon Cloud Red Team Professional (ACRTP)](https://bootcamps.pwnedlabs.io/acrtp-bootcamp)
